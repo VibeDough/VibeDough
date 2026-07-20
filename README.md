@@ -1,54 +1,90 @@
 <div align="center">
 
-# Hey, I'm Dough49 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:8B5CF6,100:22D3EE&height=210&section=header&text=Hey%2C%20I'm%20Dough49&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Building%20small%2C%20useful%20AI%20products%20with%20a%20playful%20edge.&descAlignY=57&animation=fadeIn)
 
-### Building small, useful AI products with a playful edge.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=AI+product+builder+%F0%9F%A4%96;Local-first+tool+maker+%F0%9F%A7%A9;Keep+learning.+Keep+shipping.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 我在做有趣、有用、真正能跑起来的 AI 产品。
 
-[![Profile views](https://komarev.com/ghpvc/?username=VibeDough&style=flat-square&color=6e40c9)](https://github.com/VibeDough)
-[![GitHub followers](https://img.shields.io/github/followers/VibeDough?style=flat-square&logo=github&label=Followers)](https://github.com/VibeDough?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=VibeDough&style=flat-square&color=8B5CF6)](https://github.com/VibeDough)
+[![Followers](https://img.shields.io/github/followers/VibeDough?style=flat-square&logo=github&label=Followers)](https://github.com/VibeDough?tab=followers)
+[![Stars](https://img.shields.io/github/stars/VibeDough?affiliations=OWNER&style=flat-square&logo=github&label=Total%20Stars)](https://github.com/VibeDough?tab=repositories)
 
 </div>
 
----
-
-### What I'm building
+### A little about me
 
 - 🤖 Exploring practical AI agents and local-first workflows
-- 🎨 Turning ideas into focused, interactive products
-- 🧩 Creating tools for makers who enjoy building with AI
+- 🎨 Turning playful ideas into focused, interactive products
+- 🧩 Building tools for makers who enjoy creating with AI
+- 🚀 Shipping small, runnable versions first
 
-### Featured projects
+### Things I build with
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [CodexNotch](https://github.com/VibeDough/CodexNotch) | A lightweight AI-agent task and usage companion for the MacBook notch | Swift, SwiftUI |
-| [49priority](https://github.com/VibeDough/49priority) | Visible priority markers and navigation shortcuts for Codex tasks | Codex Plugin |
-| [Ming Paper Video](https://github.com/VibeDough/ming-paper-video) | A layered paper-cut video workflow with scene-directed voiceover | HTML, AI Media |
+<p>
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Codex" src="https://img.shields.io/badge/-Codex-111111?style=flat-square&logo=openai&logoColor=white" />
+</p>
 
-### Tools I enjoy
+### Open-source projects
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white)
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🎁 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🍴 Forks</b></td>
+      <td><b>🛠 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/VibeDough/CodexNotch"><b>CodexNotch</b></a><br/><sub>AI-agent companion for the MacBook notch</sub></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/VibeDough/CodexNotch?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/VibeDough/CodexNotch?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/VibeDough/CodexNotch?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/VibeDough/CodexNotch?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/VibeDough/49priority"><b>49priority</b></a><br/><sub>Priority markers and navigation for Codex tasks</sub></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/VibeDough/49priority?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/VibeDough/49priority?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/VibeDough/49priority?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/VibeDough/49priority?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+  </tbody>
+</table>
 
-### A little activity
+### Live GitHub activity
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VibeDough&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VibeDough&theme=transparent" alt="GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VibeDough&theme=transparent" alt="Most used languages" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VibeDough&theme=transparent&hide_border=true&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6)](https://git.io/streak-stats)
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VibeDough&bg_color=00000000&color=8B5CF6&line=22D3EE&point=8B5CF6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
-
 <div align="center">
 
-**Keep learning. Keep shipping.**
+### Find me here
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VibeDough)
+[![CodexNotch](https://img.shields.io/badge/Try-CodexNotch-8B5CF6?style=for-the-badge&logo=apple&logoColor=white)](https://codexnotch.pages.dev/)
+
+**Keep learning. Keep shipping.**<br/>
 <sub>持续学习，持续创造。</sub>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:6E40C9&height=110&section=footer)
 
 </div>
