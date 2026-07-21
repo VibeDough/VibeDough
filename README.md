@@ -1,23 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:8B5CF6,100:22D3EE&height=210&section=header&text=Hey%2C%20I'm%20Dough49&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Building%20small%2C%20useful%20AI%20products%20with%20a%20playful%20edge.&descAlignY=57&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:8B5CF6,100:22D3EE&height=210&section=header&text=Hey%2C%20I'm%20Henry-%E6%81%92%E5%AE%87&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20products.%20Built%20to%20ship.&descAlignY=57&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=AI+product+builder+%F0%9F%A4%96;Local-first+tool+maker+%F0%9F%A7%A9;Keep+learning.+Keep+shipping.+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-我在做有趣、有用、真正能跑起来的 AI 产品。
+做能真正跑起来的 AI 产品。
 
 [![Profile views](https://komarev.com/ghpvc/?username=VibeDough&style=flat-square&color=8B5CF6)](https://github.com/VibeDough)
 [![Followers](https://img.shields.io/github/followers/VibeDough?style=flat-square&logo=github&label=Followers)](https://github.com/VibeDough?tab=followers)
 [![Stars](https://img.shields.io/github/stars/VibeDough?affiliations=OWNER&style=flat-square&logo=github&label=Total%20Stars)](https://github.com/VibeDough?tab=repositories)
 
 </div>
-
-### A little about me
-
-- 🤖 Exploring practical AI agents and local-first workflows
-- 🎨 Turning playful ideas into focused, interactive products
-- 🧩 Building tools for makers who enjoy creating with AI
-- 🚀 Shipping small, runnable versions first
 
 ### Things I build with
 
@@ -70,14 +61,12 @@
   </tbody>
 </table>
 
-### Watch the contribution snake eat my commits
-
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VibeDough/VibeDough/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VibeDough/VibeDough/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/VibeDough/VibeDough/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution cat animation" src="https://raw.githubusercontent.com/VibeDough/VibeDough/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
